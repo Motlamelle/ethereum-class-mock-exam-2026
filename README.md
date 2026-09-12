@@ -178,8 +178,8 @@ one becomes `currency0`. Your code picks the right one in `TODO 2.1`.
 **Record these:**
 
 ```
-alphaIsCurrency0        ______________________________________
-poolId                0x ______________________________________
+alphaIsCurrency0        true
+poolId                0xc6a61a0ffed4d5ac5297ac1d64bdbd8dfad31eb8d43773dab252bcf5c76c68e3
 startingSqrtPriceX96    ______________________________________
 tick after openPool     ______________________________________
 Task2Pool address     0x ______________________________________
